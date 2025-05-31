@@ -1,0 +1,16 @@
+Scikit-learn Documentation - https://scikit-learn.org/stable/documentation.html
+
+Pandas Library – https://pandas.pydata.org/
+
+Natural Language Toolkit (NLTK) – https://www.nltk.org/
+
+TensorFlow for Chatbot Models – https://www.tensorflow.org/
+
+Research Paper: A Survey on Healthcare Chatbots – https://doi.org/10.1016/j.jbi.2020.103759
+
+WHO – Symptom and Disease Data Guidelines – https://www.who.int/
+
+Kaggle Datasets – Symptom and Disease Data – https://www.kaggle.com/
+
+Python Official Documentation – https://docs.python.org/3/
+
